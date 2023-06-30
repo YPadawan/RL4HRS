@@ -11,3 +11,5 @@ The repository is supposed to contains:
 The notebooks directory contains:
     - The main notebooks for reading data and simulation and the training of the agent
     - Some notebooks made for practice with the necessary packages (gym, pytorch...)
+
+Still need to work on it.
